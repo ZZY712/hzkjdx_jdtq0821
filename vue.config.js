@@ -34,7 +34,7 @@ module.exports = {
 			'/py': {
 				/* 设置对象路径 */
 				// target: "http://10.19.37.68:8000/",
-				target: "http://101.43.63.11:8001/",
+				// target: "http://101.43.63.11:8001/",
 				/* 开启跨域 */
 				changeOrigin: true,
 				// pathRewrite: {
